@@ -1,4 +1,4 @@
-# Power BI E-commerce DAX & Data Visualization
+# Power BI E-commerce DAX Calculation & Data Visualization
   <img width="639" height="274" alt="Header Image" src="https://github.com/user-attachments/assets/ed946eee-f939-4eb2-b725-c10578a40123" />
 
 ## 📑 Table of Contents
