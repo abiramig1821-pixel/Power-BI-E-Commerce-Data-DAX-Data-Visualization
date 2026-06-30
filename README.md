@@ -1,4 +1,5 @@
-# Power BI E-commerce DAX Calculation & Data Visualization
+# E-Commerce sales Analysis using Power BI
+
 <img width="629" height="280" alt="image" src="https://github.com/user-attachments/assets/4d01a847-f901-4e1e-b8f4-6c1685b8c4e7" />
 
 
@@ -45,7 +46,9 @@ YTD Sales = TOTALYTD(SUM('Order Details'[Amount]),'Order Details'[Order Date],'O
 2. **File Formats:** Clone the repository to access the `.pbix` or `.pbit` file.
 3. **Data Refresh:** Change the source path under **Data Source Settings** to point to your data files.
 
+## Author
 
+**Abirami Ganesan**
 
 
 
